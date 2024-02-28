@@ -1,10 +1,6 @@
 
   # Nextropolis
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+I have deployed the frontend of the website on netlify for now you can view it there,I am working on the backend.
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+https://hackatonnextropolis.netlify.app/
